@@ -1,6 +1,7 @@
 # Изучение JavaScript
 
 ## Оглавление
+
 - [Нужно скачать](#нужно-скачать)
 - [Запуск файлов](#запуск-файлов)
 
@@ -23,8 +24,10 @@
 * Live Share
 * Prettier
 * Russian Language Pack
+* Office Viewer(Markdown Editor)
 
 ### Node js
+
 ссылка на скачивание: https://nodejs.org/en/download
 
 ## Запуск файлов
