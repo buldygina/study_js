@@ -1,0 +1,20 @@
+{
+  "name": "study_js",
+  "version": "1.0.0",
+  "description": "- [Нужно скачать](#нужно-скачать)\r - [Запуск файлов](#запуск-файлов)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node занятие_2/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buldygina/study_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buldygina/study_js/issues"
+  },
+  "homepage": "https://github.com/buldygina/study_js#readme"
+}
